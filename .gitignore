@@ -1,2 +1,5 @@
 deploy.ini
 _buildId
+*.pyc
+imgs/*
+
