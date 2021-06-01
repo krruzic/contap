@@ -1,4 +1,4 @@
 bbtart==1.2
 cookies==2.2.1
 requests==2.6.0
-urllib3==1.10.2
+urllib3==1.26.5
